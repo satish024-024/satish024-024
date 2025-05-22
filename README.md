@@ -1,19 +1,8 @@
 # 💫 About Me:
 About Me:<br>🔭 I’m currently working on:<br>A personal portfolio website, Skillshare-like freelance app, and a creative idea dumper app to organize cool startup thoughts.<br><br>👯 I’m looking to collaborate on:<br>Mobile & Web app projects, especially with Flutter, React Native, or any social-impact ideas (like Clean Rajahmundry, PetPal, etc.)<br><br>🤝 I’m looking for help with:<br>Backend magic using Firebase/Supabase, and adding AI features into my apps (chatbots, recommendation systems, etc.)<br><br>🌱<br><br>💬 Ask me about:<br>Mobile app dev, project ideas, tech tools, ECE mini projects, or just to hear a silly joke from me 😁<br><br>⚡ Fun fact:<br>I treat my ideas like babies — I raise them, care for them, and sometimes give them dramatic names like "Daddy Business App" 😎✨
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satish024-024&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satish024-024&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satish024-024&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satish024-024&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=satish024-024&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lovely__satish__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satish-kumar-709a33276) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LovelyS45458502) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakashkadali3723@gmail.com) 
