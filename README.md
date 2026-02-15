@@ -1,5 +1,26 @@
-# 💫 About Me:
-About Me:<br>🔭 I’m currently working on:<br>A personal portfolio website, Skillshare-like freelance app, and a creative idea dumper app to organize cool startup thoughts.<br><br>👯 I’m looking to collaborate on:<br>Mobile & Web app projects, especially with Flutter, React Native, or any social-impact ideas (like Clean Rajahmundry, PetPal, etc.)<br><br>🤝 I’m looking for help with:<br>Backend magic using Firebase/Supabase, and adding AI features into my apps (chatbots, recommendation systems, etc.)<br><br>🌱<br><br>💬 Ask me about:<br>Mobile app dev, project ideas, tech tools, ECE mini projects, or just to hear a silly joke from me 😁<br><br>⚡ Fun fact:<br>I treat my ideas like babies — I raise them, care for them, and sometimes give them dramatic names like "Daddy Business App" 😎✨
+# 💫 About Me
+
+🔭 Currently building  
+- Personal portfolio website  
+- Skillshare-style freelance app  
+- Idea dumper app for startup concepts  
+
+👯 Open to collaborate on  
+- Mobile & web apps  
+- Flutter and React Native projects  
+- Social-impact ideas  
+
+🤝 Looking for help with  
+- Backend using Firebase or Supabase  
+- Integrating AI features into apps  
+
+💬 Ask me about  
+- Mobile app development  
+- Project ideas and tech tools  
+- ECE mini projects  
+
+⚡ Fun fact  
+- I treat my ideas like startups in the making.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satish024-024&limit=5&theme=dark&combine_all_yearly_contributions=true)
